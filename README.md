@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Front-end Developer based in Vancouver.
+### Hi there 👋 I'm a Front-end Developer based in Vancouver.
 
 ### Skills
 
